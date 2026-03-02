@@ -1,7 +1,7 @@
 {
   "name": "vakantie-planner",
   "private": true,
-  "version": "2.2.12",
+  "version": "2.2.15",
   "type": "module",
   "scripts": {
     "dev": "vite",
